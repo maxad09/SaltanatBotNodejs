@@ -11,13 +11,13 @@ var teleg =new telegram();
 // настройка 
 
 teleg.status="вкл"
-teleg.id="id you teltegramm"
-teleg.token="token bot telegramm "
+teleg.id="274539036"
+teleg.token="1365868518:AAF-WJ8KUCpFzxD6ZjJV-SrEy2g3YdpVato "
 
 // настройка бинанс api для реальной биржы
 binance.options({
-    'APIKEY':'you api key binance',
-    'APISECRET':'you api secret binance',
+    'APIKEY':'elNvK94YHdZyN4bY4ecSy04HdglcPMDjacpa7Zv36AkfGX1oV9vb4KOIzfCbRgeM',
+    'APISECRET':'gZZ9HkofYFk0E5glbf9cc7mN34n6VJf2sC71qpmg18M9Sw1rkuY91pKvoOTn173E',
     reconnect: true ,
   });
 // все что ниже трогать нельзя )))
